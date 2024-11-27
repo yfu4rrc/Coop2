@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coop2</string>
+    <string name="action_go">Go</string>
+    <string name="baking_title">Gemini</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="prompt_placeholder">Tell me what is this</string>
+    <string name="image1_description">Cat</string>
+    <string name="image2_description">Dog</string>
+    <string name="image3_description">Tree</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+</resources>
